@@ -1,1 +1,2 @@
 I am tring to use Git&GitHub
+Now tring to make changes in order to pull later
